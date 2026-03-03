@@ -82,3 +82,12 @@ footer {
 .dark-mode td {
     border-color: gray;
 }
+
+#modeToggleBtn {
+    background-color: lightskyblue;
+}
+
+#modeToggleBtn:hover {
+    background-color: lightslategray;
+    color: whitesmoke;
+}
