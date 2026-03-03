@@ -20,3 +20,13 @@ section {
     box-shadow: 0 4px 9px rgba(0.3,0.2,0.2,0.2);
     text-align: left;
 }
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: white;
+    color: black;
+    padding: 8px;
+}
