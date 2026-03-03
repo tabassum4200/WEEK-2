@@ -7,7 +7,7 @@ body {
 
 #introduction {
     font-style: italic;
-    padding-left: 0 15px;
+    padding: 0 75px;
 }
 
 main {
@@ -15,6 +15,7 @@ main {
     grid-template-columns: repeat(3,1fr);
     gap: 30px;
     margin-top: 22px;
+    padding: 0 90px;
 }
 
 section {
