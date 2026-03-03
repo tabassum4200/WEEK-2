@@ -5,3 +5,18 @@ body {
     background-color: white;
     text-align: center;
 }
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    margin-top: 22px;
+}
+
+section {
+    background: white;
+    padding: 18px;
+    border-radius: 8px;
+    box-shadow: 0 4px 9px rgba(0.3,0.2,0.2,0.2);
+    text-align: left;
+}
