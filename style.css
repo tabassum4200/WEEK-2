@@ -60,3 +60,25 @@ footer {
     color: white;
     padding: 18px;
 }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.dark-mode section {
+    background-color: black;
+}
+
+.dark-mode footer {
+    background-color: black;
+}
+
+.dark-mode th {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.dark-mode td {
+    border-color: gray;
+}
